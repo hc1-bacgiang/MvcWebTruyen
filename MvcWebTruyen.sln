@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWebTruyen", "MvcWebTruyen.csproj", "{D88AAD10-373B-4A68-279C-D37D012B9061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWebTruyen.Tests", "MvcWebTruyen.Tests\MvcWebTruyen.Tests.csproj", "{D727518C-5940-4BEF-8F6D-498EED4D59C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D88AAD10-373B-4A68-279C-D37D012B9061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88AAD10-373B-4A68-279C-D37D012B9061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88AAD10-373B-4A68-279C-D37D012B9061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88AAD10-373B-4A68-279C-D37D012B9061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D727518C-5940-4BEF-8F6D-498EED4D59C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D727518C-5940-4BEF-8F6D-498EED4D59C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D727518C-5940-4BEF-8F6D-498EED4D59C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D727518C-5940-4BEF-8F6D-498EED4D59C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61A9F8E5-76EA-49EC-9104-9F4109066D94}
+	EndGlobalSection
+EndGlobal
